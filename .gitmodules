@@ -1,0 +1,3 @@
+[submodule "Optic/vednor/spdlog"]
+	path = Optic/vednor/spdlog
+	url = https://github.com/gabime/spdlog
